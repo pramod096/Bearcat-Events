@@ -2,8 +2,8 @@
 
 As a member, I want to login into the page.
 
-1.Every member has a unique username and password after signing up in the application.
-1.If the member forget the password, can reset the password.
+1. Every member has a unique username and password after signing up in the application.
+1. If the member forget the password, can reset the password.
 
 As a member, I want to add the events.
 
