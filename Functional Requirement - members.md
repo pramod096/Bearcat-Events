@@ -15,7 +15,7 @@ As a member, I want to modify the events.
 1.The member an rename the name of the events.
 1.The member can change the time of the events.
 1.The member can modify the event venue.
-1.The member can add or remove the images from the events
+1.The member can add or remove the images from the events.
 
  
 As a member, I want to delete the events.
