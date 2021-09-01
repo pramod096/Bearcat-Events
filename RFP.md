@@ -26,6 +26,8 @@ The following roles are suggested:
 1. User
 1. Member
 
+### User Requirements
+
 As a user, I want to see all the events which are held in NWMSU.
 
 1. The user needs to open the app.
@@ -47,6 +49,30 @@ As a user, I want to become a Member
 1. The User needs to sign-Up using the sign-Up button in the home page.
 1. In order to sign-Up the user must provide details like name, organization for which they are working, preferred username and password.
 1. After signing up user will have credentials to login as a Member.
+
+### Member Requirements
+
+As a member, I want to login into the page.
+
+1. Every member has a unique username and password after signing up in the application.
+1. If the member forget the password, can reset the password.
+
+As a member, I want to add the events.
+
+1. Every member can create a new events.
+1. After the event is created the new event should be visible to all the users in the home page.
+
+As a member, I want to modify the events.
+
+1. The member an rename the name of the events.
+1. The member can change the time of the events.
+1. The member can modify the event venue.
+1. The member can add or remove the images from the events.
+
+ 
+As a member, I want to delete the events.
+
+1. The member can delete any of their events permanently.
 
 
 
