@@ -1,4 +1,4 @@
-##Functional Requirements
+## Functional Requirements
 
 As a member, I want to login into the page.
 1.Every member has a unique username and password after sign up in the application.
@@ -11,11 +11,8 @@ As a member, I want to modify the events.
 4.The member can change or add images of the events.
 
 As a member, I want to add the events.
-1.Every member can create a new events.
-2.After the events is created the new event should be visible to the users in the home page.
-3.The member can add every upcoming events with their associate organization.
-
+1. Every member can create a new events.
+2. After the event is created the new event should be visible to all the users in the home page.
+ 
 As a member, I want to delete the events.
-1.The member can delete the event permanently.
-2.The member can easer unnecessary information if they want to.
-3.Once the event is completed the event gets deleted.
+1. The member can delete any of their events permanently.
