@@ -20,9 +20,9 @@ Each event is sorted by date and the number of likes from the users.
 
 ## Team Members
 - [Pramod Reddy Gonegari](https://github.com/pramod096)
-- Abhilash Ramavaram
-- Narendra Kumar Gunturu
-- Narsing Rao Nikitha Madhari
+- [Abhilash Ramavaram](https://github.com/AbhiRam0099)
+- [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
+- [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
 
 ## Functional Requirements
 
