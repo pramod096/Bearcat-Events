@@ -6,27 +6,33 @@ As Students of Northwest Missouri State University are back to in-person classes
 
 ## Vision
 
-We would like to create a Event Reminder web application that can be seen on any  device. 
-The app would lets the user to add the Events, update the Events and Delete Events.
+We would like to create an Event Reminder web application that can be viewed on any  device. 
+The app would let the users to add, update and Delete Events.
 
-There are various student organizations in Northwest .Each student organization conducts various events per every semister. 
-Our application lets these organizations events into one platform where users can see them.
+There are various student organizations in Northwest. Each student organization conducts various events during every semester. 
+Our application integrates the events from this organizations into one platform where users can know about them.
 
 To add any Event, member must be signed up first .
 
-Each event has date of event,organization name,event venue and images of the event.
+Each event has the date of event, organization name, event venue and images of the event.
 
-Each event is sorted by date and then by likes which given taken by users. 
+Each event is sorted by date and the number of likes from the users.
+
+## Team Members
+- Pramod Reddy Gonegari
+- Abhilash Ramavaram
+- Narendra Kumar Gunturu
+- Narsing Rao Nikitha Madhari
 
 ## Functional Requirements
 
 Create a Native web application with authentication and authorization.
 The following roles are suggested:
 
-1. User
-1. Member
+ - User
+ - Member
 
-### User Requirements
+#### User Requirements
 
 As a user, I want to see all the events which are held in NWMSU.
 
@@ -50,7 +56,7 @@ As a user, I want to become a Member
 1. In order to sign-Up the user must provide details like name, organization for which they are working, preferred username and password.
 1. After signing up user will have credentials to login as a Member.
 
-### Member Requirements
+#### Member Requirements
 
 As a member, I want to login into the page.
 
