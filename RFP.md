@@ -43,7 +43,7 @@ As a user, I need complete information about the Event.
 
 1. The user needs to select the Event.
 1. User can be able to see the description about the specific Event.
-1. Along with description user can see some pictures, venue name, date, time and feedback about the event.
+1. Along with description user can see some pictures, venue name, date and time about the event.
 
 As a user, I want to give the feedback about the event.
 
@@ -80,6 +80,20 @@ As a member, I want to delete the events.
 
 1. The member can delete any of their events permanently.
 
+## Entities
 
-
+- Users
+    - Username
+    - Email
+    - Password
+    - Organization
+    - isMember
+    
+ - Events
+    - EventName
+    - DateTime
+    - Venue
+    - Description
+    - Images
+    - Likes
 
