@@ -19,7 +19,7 @@ Each event has the date of event, organization name, event venue and images of t
 Each event is sorted by date and the number of likes from the users.
 
 ## Team Members
-- Pramod Reddy Gonegari
+- [Pramod Reddy Gonegari](https://github.com/pramod096)
 - Abhilash Ramavaram
 - Narendra Kumar Gunturu
 - Narsing Rao Nikitha Madhari
