@@ -97,4 +97,7 @@ As a member, I want to delete the events.
 
 ![ER DIAGRAM](Images/ER_Diagram.jpeg)
     
+## Sketches
 
+![SKETCH 1](Images/GdpImg2.PNG)
+![SKETCH 2](Images/GdpImg1.PNG)
