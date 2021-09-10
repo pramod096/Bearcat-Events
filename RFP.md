@@ -85,21 +85,21 @@ As a member, I want to delete the events.
 ## Entities
 
 - Member
-    - Member Id 
-    - Member Name
-    - Email
-    - Password
-    - Organization
+    - MemberId / Integer
+    - MemberName / String
+    - Email / String
+    - Password / String
+    - Organization / String
     
     
  - Events
  
-    - Event Id
-    - EventName
-    - DateTime
-    - Venue
-    - Description
-    - Images
-    - Likes
+    - EventId / Integer
+    - EventName / String
+    - DateTime / DateTime
+    - Venue/ String
+    - Description / String
+    - Images / Blob
+    - Likes / Integer
     
 
