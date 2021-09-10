@@ -92,6 +92,8 @@ As a member, I want to delete the events.
     - Description / String
     - Images / Blob
     - Likes / Integer
+    
+[Sample Data](/Resources/SampleData.xlsx)
 
 ## ER Diagram
 
