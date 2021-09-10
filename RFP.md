@@ -19,10 +19,10 @@ Each event has the date of event, organization name, event venue and images of t
 Each event is sorted by date and the number of likes from the users.
 
 ## Team Members
-- [Pramod Reddy Gonegari](https://github.com/pramod096)
-- [Abhilash Ramavaram](https://github.com/AbhiRam0099)
-- [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
-- [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
+- [Pramod Reddy Gonegari](https://github.com/pramod096) - Product Owner
+- [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu) - Executive Head
+- [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05) - Marketing Head
+- [Abhilash Ramavaram](https://github.com/AbhiRam0099) - Financial Adviser
 
 ## Functional Requirements
 
