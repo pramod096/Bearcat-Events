@@ -2,21 +2,11 @@
 
 ## Statement of Purpose
 
-As Students of Northwest Missouri State University are back to in-person classes, we would like to create an application that reminds students about all the events happening in the University. The events can be from any Organization in the university like SAC, SENATE, ACM, ISA. The main purpose of this application is to encourage students to participate in all events.
+As Students of Northwest Missouri State University are back to in-person classes, we would like to create an application that reminds students about the events happening in the University. The events can be from any Organization in the university like SAC, ISO, ACM, ISA etc. The main purpose of this application is to encourage students to participate in all events.
 
 ## Vision
 
-We would like to create an Event Reminder web application that can be viewed on any  device. 
-The app would let the users to add, update and Delete Events.
-
-There are various student organizations in Northwest. Each student organization conducts various events during every semester. 
-Our application integrates the events from this organizations into one platform where users can know about them.
-
-To add any Event, member must be signed up first .
-
-Each event has the date of event, organization name, event venue and images of the event.
-
-Each event is sorted by date and the number of likes from the users.
+We would like to create an Event Reminder Progressive Web Application that can be viewed on any  device. The app would let the users to add, update and Delete Events. There are various student organizations in Northwest. Each student organization conducts various events during every semester. Our application integrates the events from this organizations into one platform where users can know about them. To add any Event, member must be signed up first. Each event has the date of event, organization name, event venue and images of the event. Each event is sorted by date and the number of likes from the users.
 
 ## Team Members
 |Member| Role|
@@ -28,7 +18,7 @@ Each event is sorted by date and the number of likes from the users.
 
 ## Functional Requirements
 
-Create a Native web application with authentication and authorization.
+Create a Progressive Web application with authentication and authorization.
 The following roles are suggested:
 
  - User
@@ -36,10 +26,11 @@ The following roles are suggested:
 
 #### User Requirements
 
-As a user, I want to see all the events which are held in NWMSU.
+As a user, I want to see one event which is held in NWMSU.
 
 1. The user needs to open the app.
-1. Through User Interface user can be able to see all the events which are added by the Members.
+1. Through User Interface user can be able to one the event which is added by the Members.
+1. By clicking the list button, all the events scheduled in the next 3 days must be displayed.
 
 As a user, I need complete information about the Event.
 
@@ -60,14 +51,14 @@ As a user, I want to become a Member
 
 #### Member Requirements
 
-As a member, I want to login into the page.
+As a member, I want to login into the application.
 
 1. Every member has a unique username and password after signing up in the application.
-1. If the member forget the password, can reset the password.
+1. If the member forget the password, they can reset the password using email.
 
 As a member, I want to add the events.
 
-1. Every member can create a new events.
+1. Every member can create new events for their organization.
 1. After the event is created the new event should be visible to all the users in the home page.
 
 As a member, I want to modify the events.
