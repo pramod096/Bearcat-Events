@@ -101,5 +101,9 @@ As a member, I want to delete the events.
     - Description / String
     - Images / Blob
     - Likes / Integer
+
+## ER Diagram
+
+![ER DIAGRAM](Images/ER_Diagram.jpeg)
     
 
