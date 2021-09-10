@@ -84,18 +84,22 @@ As a member, I want to delete the events.
 
 ## Entities
 
-- Users
-    - Username
+- Member
+    - Member Id 
+    - Member Name
     - Email
     - Password
     - Organization
-    - isMember
+    
     
  - Events
+ 
+    - Event Id
     - EventName
     - DateTime
     - Venue
     - Description
     - Images
     - Likes
+    
 
