@@ -110,6 +110,8 @@ As a member, I want to delete the events.
 |25/10/2021 - 09/04/2022| Development & Testing |
 |10/04/2022  - 17/04/2022| Release|
 
+## Budget:
+![Budget](Images/budgetestimation.PNG)
 ## Technology Stack
 
 #### Frontend
