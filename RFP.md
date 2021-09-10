@@ -109,3 +109,15 @@ As a member, I want to delete the events.
 |18/08/2021 - 24/10/2021|RFP, Requirements Gathering, Planning, Budget|
 |25/10/2021 - 09/04/2022| Development & Testing |
 |10/04/2022  - 17/04/2022| Release|
+
+## Technology Stack
+
+#### Frontend
+* HTML
+* CSS
+* BootStrap
+* VueJs
+
+#### Backend
+* .NET
+* C#
