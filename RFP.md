@@ -112,6 +112,7 @@ As a member, I want to delete the events.
 
 ## Budget:
 ![Budget](Images/budgetestimation.PNG)
+
 ## Technology Stack
 
 #### Frontend
