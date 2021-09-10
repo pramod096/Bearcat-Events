@@ -20,7 +20,7 @@ Each event is sorted by date and the number of likes from the users.
 
 ## Team Members
 |Member| Role|
-|:------|-------:|
+|:------|---:|
 |[Pramod Reddy Gonegari](https://github.com/pramod096) | Product Owner
 | [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu) | Executive Head
 | [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05) | Marketing Head
