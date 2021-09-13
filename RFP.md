@@ -104,6 +104,12 @@ As a member, I want to delete the events.
 ![SKETCH 1](Images/GdpImg2.PNG)
 ![SKETCH 2](Images/GdpImg1.PNG)
 
+## Performance Metrics
+
+1. The UI must be intuitive.
+1. Application response time must be atmost 2 - 3 seconds.
+1. Must be reponsive with different layouts, for different device screen sizes.
+
 ## Schedule:
 
 | Duration               | Task                                                    |
@@ -112,7 +118,7 @@ As a member, I want to delete the events.
 |25/10/2021 - 09/04/2022| Development & Testing |
 |10/04/2022  - 17/04/2022| Release|
 
-## Budget:
+## Estimated Budget:
 ![Budget](Images/budgetestimation.PNG)
 
 ## Technology Stack
